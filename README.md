@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Cloning the Facebook Home page using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was my first attempt to clone Facebook using React.js. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[I have coded everything by myself to create a basic FB working layout. Special thanks to various Youtube videos who supported me in this process.]
 
 ## Available Scripts
 
