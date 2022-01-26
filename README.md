@@ -3,6 +3,8 @@
 This was my first attempt to clone Facebook using React.js. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 `I have coded everything by myself to create a basic FB working layout. Special thanks to various Youtube videos who supported me in this process.`
 
+![alt text](https://github.com/KarkiAdit/ElectricTrike/blob/main/images/1.jpg?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
